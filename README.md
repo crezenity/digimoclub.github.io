@@ -1,2 +1,2 @@
-# digimoclub.github.io
-Personal
+# [Digimoclub](digimoclub.github.io)
+Personal Site
